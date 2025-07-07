@@ -23,7 +23,7 @@ and get the icon: https://simpleicons.org/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently studying in [WHUT](https://www.whut.edu.cn/)
+- 👨🏽‍💻 I’m currently studying in [UESTC](https://www.uestc.edu.cn/)
 - 🌱 My field of expertise is related to EI
 - 🤔 Now looking for help with Design Pattern
 - 💬 Ask me about anything, I am happy to help
