@@ -1,15 +1,15 @@
 <!-- Your title -->
-## Hi, I'm Yanzong Chan, a Developer 🌞 from China.
+## Hi, I'm Jinfeng Chen, a Developer 🌞 from China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 and get the icon: https://simpleicons.org/
 -->
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/yanzongs)
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/Jinfeng50)
 [![Gitee](https://img.shields.io/badge/-Gitee-c71d23?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/sh-shqi)
 [![Gmail](https://img.shields.io/badge/-Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](chenjinfeng50@gmail.com)
-[![Blog](https://img.shields.io/badge/-Blog-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://yanzongs.cn)
+[![Blog](https://img.shields.io/badge/-Blog-0E83CD?style=flat&logo=Hexo&logoColor=white)](https://www.chenjinfeng.com)
 [![Zhihu](https://img.shields.io/badge/-Zhihu-0084ff?style=flat&logo=Zhihu&logoColor=white)](https://www.zhihu.com/people/yanzongs)
 [![Bilibili](https://img.shields.io/badge/-Bilibili-00a1d6?style=flat&logo=Bilibili&logoColor=white)](https://space.bilibili.com/38971010)
 
@@ -28,7 +28,7 @@ and get the icon: https://simpleicons.org/
 - 🤔 Now looking for help with Design Pattern
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chenjinfeng50@gmail.com
-- 📝 View my blog to get more: [Yanzongs](https://yanzongs.cn)
+- 📝 View my blog to get more: [Chen Jinfeng](https://www.chenjinfeng.com)
 - 🥂 Let's work for a better world!!!
 
 ---
