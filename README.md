@@ -28,7 +28,7 @@ and get the icon: https://simpleicons.org/
 - 🤔 Now looking for help with Design Pattern
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chenjinfeng50@gmail.com
-- 📝 View my blog to get more: [Chen Jinfeng](https://www.chenjinfeng.com)
+- 📝 View my blog to get more: [Chen Jinfeng](https://notes.chenjinfeng.com)
 - 🥂 Let's work for a better world!!!
 
 ---
